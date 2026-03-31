@@ -100,9 +100,14 @@ Where **n = number of employees**.
 ## ▶️ Compilation & Execution
 
 ### Compile
+``` bash
+gcc employee_hierarchy.c -o employee_hierarchy
+```
 
-
-
+### Run
+```bash
+./employee_hierarchy
+```
 ---
 
 ## 🛠 Technologies Used
