@@ -67,7 +67,28 @@ Each employee node contains:
 
 ### Add Root Employee
 
+*<img width="492" height="311" alt="Screenshot 2026-03-31 205747" src="https://github.com/user-attachments/assets/ba3a7dbe-a0e2-4b25-98c2-431a13111736" />
 
+### Display Employee
+
+*<img width="503" height="325" alt="Screenshot 2026-03-31 205814" src="https://github.com/user-attachments/assets/011cd722-bcbb-4bc1-ae28-f226c3882fe4" />
+
+### Search Employee
+
+*<img width="460" height="274" alt="Screenshot 2026-03-31 205836" src="https://github.com/user-attachments/assets/4012de40-b54b-4adb-9e8f-8b46940a69a9" />
+
+### Update Employee
+
+*<img width="470" height="324" alt="Screenshot 2026-03-31 205947" src="https://github.com/user-attachments/assets/80695ff5-651a-479b-8691-d311d5eb4aba" />
+
+### Delete Employee
+
+*<img width="453" height="272" alt="Screenshot 2026-03-31 210010" src="https://github.com/user-attachments/assets/8f3508e6-7121-4ec6-86ba-91ff8866cddd" />
+
+
+### Exist
+
+*<img width="315" height="195" alt="Screenshot 2026-03-31 210400" src="https://github.com/user-attachments/assets/01bf6603-4e64-45dc-b2ae-8e81d4f0f5e3" />
 
 
 ---
