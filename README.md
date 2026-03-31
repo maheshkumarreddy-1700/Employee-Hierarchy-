@@ -100,3 +100,48 @@ Where **n = number of employees**.
 ## ▶️ Compilation & Execution
 
 ### Compile
+
+
+
+---
+
+## 🛠 Technologies Used
+- **Language:** C
+- **Concepts:**
+  - Tree Data Structure
+  - Recursion
+  - Pointers
+  - Dynamic Memory Allocation
+  - Modular Programming
+
+---
+
+## 🏢 Applications
+- Corporate Organization Charts
+- Company Management Systems
+- University Faculty Hierarchy
+- Team Structure Visualization
+
+---
+
+## 👥 Project Team Members
+- Mahesh  
+- Venkey  
+- Santhosh  
+- Goutham  
+- Sasi  
+
+---
+
+## 📌 Conclusion
+This project successfully demonstrates how **tree data structures** can be used to model real-world hierarchical systems.  
+It improves understanding of **recursion, memory management, and structured programming in C**.
+
+---
+
+## 🎥 Demo Video
+Demo video link: *(Add your Google Drive / YouTube link here)*
+
+---
+
+## 📁 Project Structure
