@@ -1,4 +1,4 @@
-<img width="428" height="304" alt="Screenshot 2026-03-31 215529" src="https://github.com/user-attachments/assets/895ffbc3-1cb9-4942-86d2-6f71233d2834" /># Employee Hierarchy Management System (C Language)
+# Employee Hierarchy Management System (C Language)
 
 ## 📌 Project Overview
 The **Employee Hierarchy Management System** is a menu-driven C program that manages an organization’s employee structure using a **Tree Data Structure**.  
