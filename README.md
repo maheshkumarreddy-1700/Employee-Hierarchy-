@@ -1,4 +1,4 @@
-# Employee Hierarchy Management System (C Language)
+<img width="428" height="304" alt="Screenshot 2026-03-31 215529" src="https://github.com/user-attachments/assets/895ffbc3-1cb9-4942-86d2-6f71233d2834" /># Employee Hierarchy Management System (C Language)
 
 ## 📌 Project Overview
 The **Employee Hierarchy Management System** is a menu-driven C program that manages an organization’s employee structure using a **Tree Data Structure**.  
@@ -84,6 +84,10 @@ Each employee node contains:
 ### Delete Employee
 
 *<img width="453" height="272" alt="Screenshot 2026-03-31 210010" src="https://github.com/user-attachments/assets/8f3508e6-7121-4ec6-86ba-91ff8866cddd" />
+
+
+*<img width="428" height="304" alt="Screenshot 2026-03-31 215529" src="https://github.com/user-attachments/assets/ccefe26b-a490-460f-a03e-816f56a93d6f" />
+
 
 
 ### Exist
