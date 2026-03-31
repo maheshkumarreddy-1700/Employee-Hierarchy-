@@ -66,3 +66,37 @@ Each employee node contains:
 ## 🧪 Sample Input / Output
 
 ### Add Root Employee
+
+
+
+
+---
+
+## 🧠 Algorithm Explanation
+1. Display menu options repeatedly.
+2. For adding employee:
+   - Create a new node.
+   - If root is NULL, assign as CEO.
+   - Otherwise, search manager and attach employee as child.
+3. Searching uses **Depth First Search (DFS)**.
+4. Updating modifies employee details.
+5. Deleting removes the employee and its subtree.
+6. Free memory before program termination.
+
+---
+
+## ⏱ Time Complexity
+| Operation | Complexity |
+|---------|------------|
+| Search | O(n) |
+| Insert | O(n) |
+| Delete | O(n) |
+| Display | O(n) |
+
+Where **n = number of employees**.
+
+---
+
+## ▶️ Compilation & Execution
+
+### Compile
