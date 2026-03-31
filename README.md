@@ -125,11 +125,8 @@ Where **n = number of employees**.
 ---
 
 ## 👥 Project Team Members
-- Mahesh  
-- Venkey  
-- Santhosh  
+- Mahesh    
 - Goutham  
-- Sasi  
 
 ---
 
@@ -144,4 +141,5 @@ Demo video link: *(Add your Google Drive / YouTube link here)*
 
 ---
 
-## 📁 Project Structure
+## 📄 License
+This project is developed **for academic purposes only**.
