@@ -171,5 +171,11 @@ Demo video link: *(Add your Google Drive / YouTube link here)*
 
 ---
 
+## IEEE Project Report
+
+*https://docs.google.com/document/d/1LdUFo0Pj1gjmSIVKNZvBgbBO6rYzy-_bRX7XA6GoCII/edit?usp=sharing
+
+---
+
 ## 📄 License
 This project is developed **for academic purposes only**.
