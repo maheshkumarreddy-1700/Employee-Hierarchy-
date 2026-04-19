@@ -1,6 +1,6 @@
 EMPLOYEE HIERARCHY MANAGEMENT SYSTEM USING C LANGUAGE
 
-MAHESH KUMAR REDDY M   M              
+MAHESH KUMAR REDDY M            
 Department of Computer Science  
 College: SAI UNIVERSITY
 
