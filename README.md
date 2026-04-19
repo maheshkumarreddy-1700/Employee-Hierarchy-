@@ -173,7 +173,7 @@ Demo video link: *(Add your Google Drive / YouTube link here)*
 
 ## IEEE Project Report
 
-*https://docs.google.com/document/d/1LdUFo0Pj1gjmSIVKNZvBgbBO6rYzy-_bRX7XA6GoCII/edit?usp=sharing
+https://acrobat.adobe.com/id/urn:aaid:sc:AP:672ace61-9690-4994-a322-da9a67c4c6b0
 
 ---
 ## Project Presentation
