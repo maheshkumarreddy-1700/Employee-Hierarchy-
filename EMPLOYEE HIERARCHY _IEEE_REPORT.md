@@ -1,16 +1,19 @@
 EMPLOYEE HIERARCHY MANAGEMENT SYSTEM USING C LANGUAGE
 
-MAHESH KUMAR REDDY M  
+MAHESH KUMAR REDDY M   M              
 Department of Computer Science  
 College: SAI UNIVERSITY
+
+Gowtham P  
+Department of Computer Science  
+College: SAI UNIVERSITY
+
+
 
 **1\. Introduction** 
 
 *Organizations today handle large volumes of employee data, making manual management inefficient and error-prone. Hierarchical data representation is essential to maintain reporting relationships, organizational structure, and workflow management. Tree data structures provide a natural representation of such hierarchical relationships, where each node represents an entity and edges represent relationships.*
 
-Gowtham P  
-Department of Computer Science  
-College: SAI UNIVERSITY
 
 *Unlike linear data structures, trees allow efficient traversal and dynamic insertion and deletion of nodes. This makes them highly suitable for applications such as file systems, database indexing, and organizational management systems. The Employee Hierarchy Management System leverages these properties to provide an efficient solution for managing employee relationships.*
 
